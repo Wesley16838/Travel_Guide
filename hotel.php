@@ -24,7 +24,7 @@
 			</ul>
 		</div>
 		<div class="hotelhero-image">
-			<div class="hidden hero-text">
+			<div class="hero-text">
 				
 				<h1>Toyoko INN in Tokyo</h1>	
 				

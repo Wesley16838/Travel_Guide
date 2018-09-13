@@ -41,7 +41,7 @@ html,body {
 }
 
 input[type=text] {
-    width: 15%;
+    width: 100%;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 10px;
@@ -54,8 +54,8 @@ input[type=text] {
 	padding: 12px 20px 12px 40px;
     transition: width 0.4s ease-in-out;
 }
-input[type=text]:focus {
-	width: 30%;
+input[type=text]:focus, input[type=text]:hover {
+	width: 100%;
 }
 .nav .logo{
 	float:left;
