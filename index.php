@@ -11,7 +11,7 @@
 	<div class="content">
 		<a id=home></a>
 		<header>
-		<a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
 		</header>
 		<div class='slider'>										
 			<div class='slide1'>	<span class="text wow fadeIn" data-wow-delay=".4s" >Welcome to Tokyo<br></span><div class="text-block wow fadeIn"><h4>Akihabara</h4><p>01/14/2017</p></div></div>
@@ -44,7 +44,7 @@
 			<p class="title wow fadeIn" data-wow-duration="2s">Plan Your Trip</p><hr class="wow fadeIn"  data-wow-delay=".1s">
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/Nightlife.php" target="_blank"><img src="images/Shibuya/Shibuya1.jpg" class="image1" alt="nightlife">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/Nightlife.php" target="_blank"><img src="images/Shibuya/Shibuya1.jpg" class="image1" alt="nightlife">	
 						<span class="imagetext">Nightlife</span>
 					</a>						
 				</section>
@@ -52,7 +52,7 @@
 			</div>
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/eating.php" target="_blank"><img src="images/Dessert/food2.jpg" class="image1" alt="eating">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/eating.php" target="_blank"><img src="images/Dessert/food2.jpg" class="image1" alt="eating">	
 						<span class="imagetext">Eating</span>
 					</a>	
 				</section>
@@ -60,7 +60,7 @@
 			</div>
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/hotel.php" target="_blank"><img src="images/Toyoko-INN/Toyoko-INN-DeluxeTwinRoom.jpg" class="image1" alt="nightlife">
+					<a href="http://www.wesleywong.xyz/Travel_Guide/hotel.php" target="_blank"><img src="images/Toyoko-INN/Toyoko-INN-DeluxeTwinRoom.jpg" class="image1" alt="nightlife">
 						<span class="imagetext">Hotels</span>
 					</a>	
 				</section>
@@ -68,7 +68,7 @@
 			</div>
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/entertainment.php" target="_blank"><img src="images/TokyoTower/TokyoTower10.jpg" class="image1" alt="entertainment">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/entertainment.php" target="_blank"><img src="images/TokyoTower/TokyoTower10.jpg" class="image1" alt="entertainment">	
 						<span class="imagetext">Entertainment</span>
 					</a>	
 				</section>
@@ -81,7 +81,7 @@
 			<p class="title wow fadeIn" data-wow-delay=".3s" data-wow-duration="2s">Explore Tokyo</p><hr class="wow fadeIn"  data-wow-delay=".1s">				
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/Akihabara.php" target="_blank"><img src="images/Akihabara/Akihabara8.jpg" class="image1" alt="Akihabara">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/Akihabara.php" target="_blank"><img src="images/Akihabara/Akihabara8.jpg" class="image1" alt="Akihabara">	
 						<span class="imagetext">Akihabara</span>
 					</a>	
 				</section>
@@ -105,7 +105,7 @@
 			</div>
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/MeijiJingu.php#home" target="_blank"><img src="images/MeijiJingu/MeijiJingu15.jpg" class="image1" alt="Akihabara">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/MeijiJingu.php#home" target="_blank"><img src="images/MeijiJingu/MeijiJingu15.jpg" class="image1" alt="Akihabara">	
 						<span class="imagetext">MeijiJingu</span>
 					</a>	
 				</section>
@@ -129,7 +129,7 @@
 			</div>
 			<div>
 				<section class="wow fadeIn"  > 
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/disney.php" target="_blank"><img src="images/TokyoDisneySea/Mikey.jpg" class="image1" alt="Akihabara">	
+					<a href="http://www.wesleywong.xyz/Travel_Guide/disney.php" target="_blank"><img src="images/TokyoDisneySea/Mikey.jpg" class="image1" alt="Akihabara">	
 						<span class="imagetext">TokyoDisneySea</span>
 					</a>	
 				</section>
@@ -177,7 +177,7 @@
 					<div class="title">Gallery</div>			
 				</div>
 				<div class="galleryimage">
-					<a href="http://chelan.highline.edu/~wesley16838/csci202/finalproject/gallery.php" target="_blank"><img src="images/gallery.jpg" alt="JR"><div class="overlay1"><span class="transtext1">Read More</span></div></a>		
+					<a href="http://www.wesleywong.xyz/Travel_Guide/gallery.php" target="_blank"><img src="images/gallery.jpg" alt="JR"><div class="overlay1"><span class="transtext1">Read More</span></div></a>		
 				</div>				
 			</div>
 		</div>
