@@ -12,7 +12,7 @@
 	<!-- Content of the page goes here. -->
 	<a id=home></a>
 	<div class="content">
-		<div class="nav">
+		<!-- <div class="nav">
 			<ul>
 				<li class="logo"><a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img src="images/logo.png"  alt="logo" width="126" height="28"></a></li>
 				<li>
@@ -26,8 +26,10 @@
 				
 				
 			</ul>
-		</div>
-		
+		</div> -->
+		<header>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
+		</header>
 		<div class='disneyslider'>
 			<div class='disneyslide1'><div class="hidden text">Welcome to Tokyo Disney Sea<br></div><div class="text-block"><h4>Tokyo Disney Sea</h4><p><img src="images/icon.png" alt="icon" width="20" height="20">Tokyo</p></div></div>
 			<div class='disneyslide2'><span class="text">Welcome to Tokyo Disney Sea<br></span><div class="text-block"><h4>Tokyo Disney Sea</h4><p><img src="images/icon.png" alt="icon" width="20" height="20">Tokyo</p></div></div>

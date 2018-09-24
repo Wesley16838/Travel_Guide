@@ -11,7 +11,7 @@
 <body>
 	<div class="content">
 	<a id=home></a>
-	<div class="nav">
+	<!-- <div class="nav">
 		<ul>
 			<li class="logo"><a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img src="images/logo.png"  alt="logo" width="126" height="28"></a></li>
 				<li>
@@ -23,7 +23,10 @@
 				<li><a href="https://www.instagram.com/"><img src="images/ig.png"  alt="ig"  width="28" height="28"></a></li>
 				<li><a href="https://twitter.com/"><img src="images/twitter.png"  alt="twitter"  width="28" height="28"></a></li>					
 		</ul>
-	</div>
+	</div> -->
+	<header>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
+	</header>
 	<div class="contactmehero-image">
 		<div class="hidden hero-text">
 			

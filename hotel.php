@@ -10,26 +10,17 @@
 <body onscroll="myFunction()">	
 	<div class="content">
 		<a id=home></a>
-		<div class="nav">
-			<ul>
-				<li class="logo"><a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img src="images/logo.png"  alt="logo" width="126" height="28"></a></li>
-				<li>
-					<form>
-						<input type="text" name="search" placeholder="Search">					
-					</form>
-				</li>
-				<li><a href="https://www.facebook.com/"><img src="images/fb.png"  alt="fb" width="28" height="28"></a></li>
-				<li><a href="https://www.instagram.com/"><img src="images/ig.png"  alt="ig"  width="28" height="28"></a></li>
-				<li><a href="https://twitter.com/"><img src="images/twitter.png"  alt="twitter"  width="28" height="28"></a></li>			
-			</ul>
-		</div>
-		<div class="hotelhero-image">
-			<div class="hero-text">
+		
+		<header>
+			<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn" data-wow-delay=".4s" src="images/newlogo.png"  alt="logo"></a>
+		</header>
+		<div class="hotelhero-image wow fadeIn">
+			<div class="hero-text wow fadeIn" data-wow-delay=".4s">
 				
 				<h1>Toyoko INN in Tokyo</h1>	
 				
 			</div>
-			<div class="text-block">
+			<div class="text-block wow fadeIn" data-wow-delay=".4s">
 				<h4>Toyoko Inn Tokyo Nihombashi Zeimusho Mae</h4>
 				<p><img src="images/icon.png" alt="icon" width="20" height="20">11-5 Nihonbashitomizawacho, Chuo, Tokyo 103-0006</p>
 			</div>
@@ -133,7 +124,7 @@
 			
 		</div>
 		<a href=#home class="top">Top</a>
-		<?php include 'footer.php';?><a id=contactme></a>
+		<div class="wow fadeIn"><?php include 'footer.php';?><a id=contactme></a></div>
 	</div>	
 	
 	<script src="finalproject.js"></script>		

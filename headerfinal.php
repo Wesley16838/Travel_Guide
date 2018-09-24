@@ -13,7 +13,7 @@
 	
 		<link href="https://fonts.googleapis.com/css?family=Nunito|Playfair+Display" rel="stylesheet">
 		
-		
+		<link rel="stylesheet" href="css/animate.css">
 		<link rel="stylesheet" href="animate.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<script async defer

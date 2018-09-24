@@ -12,7 +12,7 @@
 	<!-- Content of the page goes here. -->
 	<a id=home></a>
 	<div class="content">
-		<div class="nav">
+		<!-- <div class="nav">
 			<ul>
 				<li class="logo"><a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img src="images/logo.png"  alt="logo" width="126" height="28"></a></li>
 				<li>
@@ -26,8 +26,12 @@
 				
 				
 			</ul>
-		</div>
+		</div> -->
 		
+		<header>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
+		</header>
+
 		<div class='akislider'>
 			<div class='akislide1'><div class="hidden text">Welcome to Akihabara <br></div><div class="text-block"><h4>Akihabara</h4><p><img src="images/game.png" alt="icon" width="20" height="20"> Tokyo's Electric Town</p></div></div>
 			<div class='akislide2'><span class="text">Welcome to Akihabara <br></span><div class="text-block"><h4>Akihabara</h4><p><img src="images/game.png" alt="icon" width="20" height="20"> Tokyo's Electric Town</p></div></div>
@@ -64,7 +68,7 @@
 				<img src="images/Akihabara/Akihabara10.jpg" alt="Akihabara10" class="right smallimg">
 				<p class="bold">2. Visit the exhibition on Tokyo Anime Center</p>
 				<p class="indent">Tokyo Anime Center located on the 4th floor of UDX Building of Akihabara Crossfield. It hosts exhibitions and events related to anime, and of couse, has a shop that sells toys, stationery and other souvenirs, of anime/ manga characters as well as figures.</p><hr>			
-				<img src="images/Akihabara/Gachapon.jpg" alt="Gachapon" class="left smallimg">
+				<img src="images/Akihabara/gacha.jpg" alt="Gachapon" class="left smallimg">
 				<p class="bold">3.Play Gachapon</p>
 				<p class="indent">Gachapon is a special kind of Japanese vending machine, but instead of dropping drinks or foods, this machine drops small (but super cute) prizes, especially each Gachapon machine drops different prizes and specializes mostly about manga, anime, games, movies and small toys such as miniature animals or foods. </p><hr>
 				<img src="images/Akihabara/Akihabara8.jpg" alt="Akihabara8" class="right smallimg">

@@ -468,10 +468,10 @@ section:hover+.overlay,section:focus+.overlay {
 .transtext1 {
 	color: white;
 	font-size: 20px;
-	position: absolute;
+	/* position: absolute;
 	top: 50%;
 	left: 50%;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%); */
 	
 	font-family: 'Nunito', sans-serif;
 }
@@ -486,6 +486,9 @@ section:hover+.overlay,section:focus+.overlay {
 	opacity: 0;
 	transition: .5s ease;
 	background-color: #333333;
+	display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -520,7 +523,7 @@ section:hover+.overlay,section:focus+.overlay {
 }
 .galleryfullscreen{	
 	width: 100%;
-	height:20em; 
+	height:30vw; 
 	position: relative;	
 	float:left;	
 	
@@ -584,6 +587,7 @@ section:hover+.overlay,section:focus+.overlay {
 		position: relative;	
 		float:left;	
 		margin-top: 3em;
+		height:65vw;
 	}
 	.gallerybox {
 	width: 90%;
@@ -1691,7 +1695,7 @@ background-size: cover;
 animation:tranfade2 50s infinite;	
 }
 .translide3 {
-background: url(images/metro.jpg)no-repeat center;
+background: url(images/metro.JPG)no-repeat center;
 background-size: cover;
 animation:tranfade3 50s infinite;	
 }
@@ -1781,8 +1785,13 @@ header img{
 	width:45%;
 	margin-right:5%;
 }
-
+@media (max-width:768px){
+	.title{
+		font-size:1.5em;
+	}
+}
 @media (max-width: 40em){
+	
 	.columntransportation{
 	width:100%;
 	float:left;

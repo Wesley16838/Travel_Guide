@@ -12,7 +12,7 @@
 	<!-- Content of the page goes here. -->
 	<a id=home></a>
 	<div class="content">
-		<div class="nav">
+		<!-- <div class="nav">
 			<ul>
 				<li class="logo"><a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img src="images/logo.png"  alt="logo" width="126" height="28"></a></li>
 				<li>
@@ -26,8 +26,10 @@
 				
 				
 			</ul>
-		</div>
-		
+		</div> -->
+		<header>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn"  src="images/newlogo.png"  alt="logo"></a>
+		</header>
 		<div class='Meislider'>
 			<div class='Meislide1'><div class="hidden text">Welcome to MeijiJingu<br></div><div class="text-block"><h4>MeijiJingu</h4><p><img src="images/shrine.png" alt="shrine" width="20" height="20"> Shrine in Tokyo</p></div></div>
 			<div class='Meislide2'><span class="text">Welcome to MeijiJingu<br></span><div class="text-block"><h4>MeijiJingu</h4><p><img src="images/shrine.png"  alt="shrine" width="20" height="20"> Shrine in Tokyo</p></div></div>

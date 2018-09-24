@@ -11,7 +11,7 @@
 	<div class="content">
 		<a id=home></a>
 		<header>
-		<a href="https://chelan.highline.edu/~wesley16838/csci202/finalproject/index.php"><img class="wow fadeIn" data-wow-delay=".4s" src="images/newlogo.png"  alt="logo"></a>
+		<a href="http://www.wesleywong.xyz/Travel_Guide/index.php"><img class="wow fadeIn" data-wow-delay=".4s" src="images/newlogo.png"  alt="logo"></a>
 		</header>
 		<div class="entertainmenthero-image wow fadeIn">
 			<div class="hero-text wow fadeIn" data-wow-delay=".4s">
